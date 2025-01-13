@@ -1,0 +1,484 @@
+Id,Type,Icon,Name,Note,X,Y,Latitude,Longitude
+marker0,System JSON,📕,marker0 Master JSON,"<p>{<br>&nbsp; &nbsp; ""marker_id"": ""marker0"",<br>&nbsp; &nbsp; ""type"": ""master_json"",<br>&nbsp; &nbsp; ""name"": ""Master JSON"",<br>&nbsp; &nbsp; ""description"": ""Tracks all markers and their relationships in the campaign."",<br>&nbsp; &nbsp; ""markers"": [<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker0"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""world_state""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker1"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""character_reference""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker2"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""rules""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker3"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""lore""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker4"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""session_start_instructions""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker5"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""changelog""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker6"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""manual_actions""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker7"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""lighthouses""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker8"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""battlefields""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker9"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""dungeons""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker10"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""dungeons""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker11"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""dungeons""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker12"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""dungeons""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker13"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""dungeons""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker14"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""dungeons""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker15"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""dungeons""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker16"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""dungeons""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker17"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""dungeons""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker18"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""dungeons""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker19"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""dungeons""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker20"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""dungeons""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker21"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""dungeons""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker22"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""dungeons""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker23"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""dungeons""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker24"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""sea_monsters""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker25"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""hill_monsters""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker26"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""sacred_forests""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker27"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""key_locations""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker28"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""sacred_palm_groves""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker29"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""brigands""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker30"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""brigands""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker31"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""brigands""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker32"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""pirates""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker33"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""pirates""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker34"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""statues""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker35"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""statues""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker36"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""statues""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker37"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""ruins""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker38"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""ruins""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker39"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""ruins""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker40"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""libraries""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker41"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""circuses""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker42"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""circuses""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker43"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""jousts""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker44"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""fairs""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker45"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""migration""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker46"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""migration""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker47"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""migration""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker48"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""mirage""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker49"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""mirage""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker50"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""mirage""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker51"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""caves""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker52"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""portals""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker53"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""portals""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker54"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""portals""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker55"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""portals""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker56"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""portals""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker57"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""rifts""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker58"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""disturbed_burials""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker59"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""necropolises""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker60"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""necropolises""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker61"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""necropolises""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker62"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""encounters""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker63"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""key_locations""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker64"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""non_player_character""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker65"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""non_player_character""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker67"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""sacred_mountains""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker68"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""sanctum""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker69"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""valley_of_whispers""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker71"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""portals""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker72"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""player_character""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker73"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""player_character""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_id"": ""marker77"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""type"": ""volcanoes""<br>&nbsp; &nbsp; &nbsp; &nbsp; }<br>&nbsp; &nbsp; ]<br>}</p>",52.2,622.3,-72.81,-163.94
+marker1,System JSON,📕,marker1 Character Sheet Updates,"<p>{<br>&nbsp; ""marker1"": {<br>&nbsp; &nbsp; ""type"": ""character_sheet"",<br>&nbsp; &nbsp; ""characters"": [<br>&nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; ""name"": ""Gondwyn Dawnstar"",<br>&nbsp; &nbsp; &nbsp; &nbsp; ""race"": ""Human"",<br>&nbsp; &nbsp; &nbsp; &nbsp; ""class"": ""Paladin"",<br>&nbsp; &nbsp; &nbsp; &nbsp; ""archetype"": ""Oath of Devotion"",<br>&nbsp; &nbsp; &nbsp; &nbsp; ""background"": ""Soldier"",<br>&nbsp; &nbsp; &nbsp; &nbsp; ""alignment"": ""Lawful Good"",<br>&nbsp; &nbsp; &nbsp; &nbsp; ""level"": 5,<br>&nbsp; &nbsp; &nbsp; &nbsp; ""experience_points"": 6500,<br>&nbsp; &nbsp; &nbsp; &nbsp; ""age"": 29,<br>&nbsp; &nbsp; &nbsp; &nbsp; ""current_hp"": 41,<br>&nbsp; &nbsp; &nbsp; &nbsp; ""max_hp"": 41,<br>&nbsp; &nbsp; &nbsp; &nbsp; ""attributes"": {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""strength"": 18,<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""dexterity"": 12,<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""constitution"": 16,<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""intelligence"": 8,<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""wisdom"": 11,<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""charisma"": 10<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; ""inventory"": [""Healing Potion"", ""Rations (x5)""],<br>&nbsp; &nbsp; &nbsp; &nbsp; ""purse"": {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""gold"": 16,<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""silver"": 0<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; ""appearance"": ""Broad-shouldered with silver chin-length hair, green eyes, and a diagonal scar on his cheek. Wears polished chainmail adorned with a radiant sunburst."",<br>&nbsp; &nbsp; &nbsp; &nbsp; ""personality"": ""Exudes duty and honor, kind-hearted, listens to others.""<br>&nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; ""name"": ""Rieta Akta"",<br>&nbsp; &nbsp; &nbsp; &nbsp; ""race"": ""Tiefling"",<br>&nbsp; &nbsp; &nbsp; &nbsp; ""class"": ""Ranger"",<br>&nbsp; &nbsp; &nbsp; &nbsp; ""archetype"": ""Beast Master"",<br>&nbsp; &nbsp; &nbsp; &nbsp; ""background"": ""Outlander"",<br>&nbsp; &nbsp; &nbsp; &nbsp; ""alignment"": ""Chaotic Neutral"",<br>&nbsp; &nbsp; &nbsp; &nbsp; ""level"": 5,<br>&nbsp; &nbsp; &nbsp; &nbsp; ""experience_points"": 6500,<br>&nbsp; &nbsp; &nbsp; &nbsp; ""age"": 22,<br>&nbsp; &nbsp; &nbsp; &nbsp; ""current_hp"": 31,<br>&nbsp; &nbsp; &nbsp; &nbsp; ""max_hp"": 31,<br>&nbsp; &nbsp; &nbsp; &nbsp; ""attributes"": {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""strength"": 14,<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""dexterity"": 16,<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""constitution"": 13,<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""intelligence"": 10,<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""wisdom"": 15,<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""charisma"": 12<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; ""inventory"": [""Healing Potion"", ""Antitoxin (x2)""],<br>&nbsp; &nbsp; &nbsp; &nbsp; ""purse"": {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""gold"": 40,<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""silver"": 0<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; ""appearance"": ""Lithe Tiefling with deep red skin, glowing amber eyes, curved horns, and auburn braided hair. Wears leather armor adorned with woodland motifs."",<br>&nbsp; &nbsp; &nbsp; &nbsp; ""personality"": ""Independent, values freedom, loyal to those she trusts.""<br>&nbsp; &nbsp; &nbsp; }<br>&nbsp; &nbsp; ]<br>&nbsp; }<br>}</p>",94.8,653.6,-81,-152.8
+marker2,references,📕,marker2 Rules,"<p>{<br>&nbsp; ""marker2"": {<br>&nbsp; &nbsp; ""rules"": {<br>&nbsp; &nbsp; &nbsp; ""session_start_protocols"": {<br>&nbsp; &nbsp; &nbsp; &nbsp; ""player_roll_call"": [<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Roll call must be completed before gameplay begins."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""All active players and their known characters must be listed during roll call."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Options to generate or import new characters must be presented if applicable."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Gameplay cannot proceed until all active players are accounted for.""<br>&nbsp; &nbsp; &nbsp; &nbsp; ],<br>&nbsp; &nbsp; &nbsp; &nbsp; ""character_creation"": {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""random_generation"": [<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Roll for ability scores using 4d6 (drop the lowest)."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Assign race and class using random rolls."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Select or roll for starting equipment.""<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ],<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""custom_creation"": [<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Choose race, class, and background."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Assign ability scores using point buy, standard array, or rolling."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Finalize alignment, name, and personal traits.""<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ],<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""requirements"": ""New characters must be generated or imported during roll call and adhere to all creation rules.""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; ""scene_initialization"": [<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""The session must begin with the `current_scene` specified in the Campaign JSON `world_state` (e.g., marker5)."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Apply environmental effects and narrative hooks for immersion."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Prompt players with opening choices and objectives.""<br>&nbsp; &nbsp; &nbsp; &nbsp; ],<br>&nbsp; &nbsp; &nbsp; &nbsp; ""session_continuity"": [<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""For live games, the next session starts where the previous session left off."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Session logs (Live Gameplay Log, Game Mechanics and Rules Log, Character Sheets Log, Campaign JSON) must be referenced for continuity.""<br>&nbsp; &nbsp; &nbsp; &nbsp; ],<br>&nbsp; &nbsp; &nbsp; &nbsp; ""session_close"": [<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""At the end of each session, update the Campaign JSON aka marker5 to reflect the current state of the campaign, including:"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""- The scene players were last in."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""- Each player currently participating."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Validate and sync all relevant JSONs to ensure consistency."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Generate a final scene image in 16:9 resolution based on the closing scene."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Provide a closing 'cliffhanger' narrative to set up anticipation for the next session.""<br>&nbsp; &nbsp; &nbsp; &nbsp; ]<br>&nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; ""gameplay_mechanics"": {<br>&nbsp; &nbsp; &nbsp; &nbsp; ""general_gameplay"": {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""numbered_choices"": [<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""All player actions and decisions must be presented in a numbered format for clarity."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Example:"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""1. Investigate the carvings."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""2. Attempt to activate the portal."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""3. Speak to the NPC.""<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ],<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""scene_progression"": [<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Adhere to pre-defined lore, starting with the scene defined in the Campaign JSON (e.g., marker5)."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Test sessions should remain confined to mechanical and character refinement purposes, including leaving the initial scene.""<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ],<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""sound_cues_and_visuals"": [<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Introduce dynamic sound effects and visual aids to enhance immersion."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Examples:"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""- Ambient Effects: Creaking wood, faint whispers, crackling frost, soft magical hum."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""- Triggered Effects: Portal activation (resonant hum and burst of energy), combat start (tension music and clashing swords)."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""- Scene and Character Images:"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""-- Images should accompany any scene change or significant event unprompted."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""-- The DM can trigger image requests using specific commands:"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""--- /generate_scene: Generates an image based on the current scene."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""--- /generate_PC or [PC Name]/generate_PC: Generates an image of a specific player character."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""--- /generate_NPC or [NPC Name]/generate_NPC: Generates an image of a specific NPC.""<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ]<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; ""combat_mechanics"": {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""initiative"": [<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Players roll a d20 at the start of combat and add their Dexterity modifier to determine turn order.""<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ],<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""actions"": [<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Attack: Roll d20 + attack modifier vs. target AC."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Spellcasting: Use spell save DC or attack roll as applicable."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Bonus Action: Limited to class or feature rules.""<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ],<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""healing_potions"": {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""requirement"": ""Using a healing potion requires a bonus action during combat."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""effects"": {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""standard_healing_potion"": ""Restores 2d4 + 2 HP."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""greater_healing_potion"": ""Restores 4d4 + 4 HP.""<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; }<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; }<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; ""skill_checks"": {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""saving_throws"": ""Players roll a d20 and add the relevant ability modifier to avoid or mitigate harmful effects."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""perception"": ""Used to investigate or detect anomalies. Example: DC 14 to notice a frost rune."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""arcana"": ""Identifies magical properties or stabilizes magic. Example: DC 15 to stabilize a portal."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""insight"": ""Analyzes visions or NPC intentions. Example: DC 15 to discern motives."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""survival"": ""Used for navigation and resource gathering. DC varies with terrain difficulty.""<br>&nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; ""custom_mechanics"": {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""dungeon_hazards"": [<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Collapsing ceilings require Dexterity saving throws (DC 14)."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Shadow traps impose Wisdom saves (DC 12) to avoid fear effects.""<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ],<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""portal_usage"": [<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Players must perform an Arcana check (DC 15) to stabilize a portal for travel."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Failing triggers destabilization effects, such as magical backlash or environmental hazards.""<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ]<br>&nbsp; &nbsp; &nbsp; &nbsp; }<br>&nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; ""environmental_effects"": {<br>&nbsp; &nbsp; &nbsp; &nbsp; ""description"": ""Persistent effects (e.g., frost, magical hum) remain until explicitly addressed. Players may use Perception or Arcana checks to investigate these phenomena.""<br>&nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; ""session_logs"": [<br>&nbsp; &nbsp; &nbsp; &nbsp; ""Live Gameplay Log: Documents events and player actions during live sessions."",<br>&nbsp; &nbsp; &nbsp; &nbsp; ""Game Mechanics and Rules Log: Tracks rules and mechanics used during gameplay."",<br>&nbsp; &nbsp; &nbsp; &nbsp; ""Character Sheets Log: Maintains current stats, abilities, and inventories."",<br>&nbsp; &nbsp; &nbsp; &nbsp; ""Campaign JSON: Provides world-state information and scene data.""<br>&nbsp; &nbsp; &nbsp; ],<br>&nbsp; &nbsp; &nbsp; ""character_roll_call_and_creation_system"": {<br>&nbsp; &nbsp; &nbsp; &nbsp; ""roll_call_process"": [<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""During roll call, all known characters will be listed with numbered options."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Example:"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""1. Rieta Akta"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""2. Gondwyn Dawnstar"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""3. Add Player(s)""<br>&nbsp; &nbsp; &nbsp; &nbsp; ],<br>&nbsp; &nbsp; &nbsp; &nbsp; ""selecting_characters"": [<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Players select the numbers corresponding to present characters (e.g., '12' for Rieta and Gondwyn)."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""If 'Add Player(s)' is chosen, confirm the existing players first.""<br>&nbsp; &nbsp; &nbsp; &nbsp; ],<br>&nbsp; &nbsp; &nbsp; &nbsp; ""adding_new_players"": [<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Ask how many new players are being added."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Provide a numbered menu to choose between Random Character Generation or Guided Character Creation."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Add created character details to 'Character Quick Reference' and 'Character Sheet Update' JSONs.""<br>&nbsp; &nbsp; &nbsp; &nbsp; ],<br>&nbsp; &nbsp; &nbsp; &nbsp; ""post_roll_call"": [<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Confirm all players (existing and new) and their characters."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Begin the game session with the scene specified in the `current_scene` from the Campaign JSON `world_state`.""<br>&nbsp; &nbsp; &nbsp; &nbsp; ],<br>&nbsp; &nbsp; &nbsp; &nbsp; ""scene_progression"": [<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Opening session scene includes an image generated in 16:9 resolution based on the scene description."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Images must adhere to player physical descriptions in character sheets."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""New players are injected into the game after explicit DM direction.""<br>&nbsp; &nbsp; &nbsp; &nbsp; ],<br>&nbsp; &nbsp; &nbsp; &nbsp; ""gameplay_management"": [<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""ChatGPT tracks all rolls, DCs, initiative, turn order, and player turns."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""NPCs are controlled by ChatGPT and take turns accordingly."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Session progression follows 'Campaign State' references (marker4 and marker5).""<br>&nbsp; &nbsp; &nbsp; &nbsp; ]<br>&nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; ""icon_system_for_clarity"": {<br>&nbsp; &nbsp; &nbsp; &nbsp; ""🎲 Player Actions"": ""For player decisions, dice rolls, and turn-related prompts."",<br>&nbsp; &nbsp; &nbsp; &nbsp; ""🛡️ DM Prompts"": ""For Dungeon Master actions or narrative direction."",<br>&nbsp; &nbsp; &nbsp; &nbsp; ""💬 NPC Dialogue"": ""For dialogue from non-player characters."",<br>&nbsp; &nbsp; &nbsp; &nbsp; ""📜 Lore and World-Building"": ""For descriptive lore, setting information, and world-building elements."",<br>&nbsp; &nbsp; &nbsp; &nbsp; ""🖼️ Visual Aid"": ""For images or visual content related to the session."",<br>&nbsp; &nbsp; &nbsp; &nbsp; ""🔊 Sound Cues"": ""For ambient or triggered sound effects.""<br>&nbsp; &nbsp; &nbsp; }<br>&nbsp; &nbsp; }<br>&nbsp; }<br>}</p>
+<h3>Rules (Readable Format)</h3>
+<hr>
+<h4><strong>Session Start Protocols</strong></h4>
+<ol>
+<li>
+<p><strong>Player Roll Call</strong>:</p>
+<ul>
+<li>Roll call must be completed before gameplay begins.</li>
+<li>All active players and their known characters must be listed during roll call.</li>
+<li>Options to generate or import new characters must be presented if applicable.</li>
+<li>Gameplay cannot proceed until all active players are accounted for.</li>
+</ul>
+</li>
+<li>
+<p><strong>Character Creation</strong>:</p>
+<ul>
+<li><strong>Random Generation</strong>:
+<ul>
+<li>Roll for ability scores using 4d6 (drop the lowest).</li>
+<li>Assign race and class using random rolls.</li>
+<li>Select or roll for starting equipment.</li>
+</ul>
+</li>
+<li><strong>Custom Creation</strong>:
+<ul>
+<li>Choose race, class, and background.</li>
+<li>Assign ability scores using point buy, standard array, or rolling.</li>
+<li>Finalize alignment, name, and personal traits.</li>
+</ul>
+</li>
+<li>New characters must be generated or imported during roll call and adhere to all creation rules.</li>
+</ul>
+</li>
+<li>
+<p><strong>Scene Initialization</strong>:</p>
+<ul>
+<li>The session must begin with the <code>current_scene</code> specified in the Campaign JSON <code>world_state</code> (e.g., marker5).</li>
+<li>Apply environmental effects and narrative hooks for immersion.</li>
+<li>Prompt players with opening choices and objectives.</li>
+</ul>
+</li>
+<li>
+<p><strong>Session Continuity</strong>:</p>
+<ul>
+<li>For live games, the next session starts where the previous session left off.</li>
+<li>Session logs (Live Gameplay Log, Game Mechanics and Rules Log, Character Sheets Log, Campaign JSON) must be referenced for continuity.</li>
+</ul>
+</li>
+<li>
+<p><strong>Session Close</strong>:</p>
+<ul>
+<li>At the end of each session, update the Campaign JSON to reflect the current state of the campaign, including:
+<ul>
+<li>The scene players were last in.</li>
+<li>Each player currently participating.</li>
+</ul>
+</li>
+<li>Validate and sync all relevant JSONs to ensure consistency.</li>
+<li>Generate a final scene image in 16:9 resolution based on the closing scene.</li>
+<li>Provide a closing ""cliffhanger"" narrative to set up anticipation for the next session.</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h4><strong>Gameplay Mechanics</strong></h4>
+<h5><strong>General Gameplay</strong></h5>
+<ol>
+<li>
+<p><strong>Numbered Choices</strong>:</p>
+<ul>
+<li>All player actions and decisions must be presented in a numbered format for clarity.</li>
+<li>Example:
+<ol>
+<li>Investigate the carvings.</li>
+<li>Attempt to activate the portal.</li>
+<li>Speak to the NPC.</li>
+</ol>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Scene Progression</strong>:</p>
+<ul>
+<li>Adhere to pre-defined lore, starting with the scene defined in the Campaign JSON (e.g., marker5).</li>
+<li>Test sessions should remain confined to mechanical and character refinement purposes, including leaving the initial scene.</li>
+</ul>
+</li>
+<li>
+<p><strong>Sound Cues and Visuals</strong>:</p>
+<ul>
+<li>Introduce dynamic sound effects and visual aids to enhance immersion.</li>
+<li>Examples:
+<ul>
+<li><strong>Ambient Effects</strong>: Creaking wood, faint whispers, crackling frost, soft magical hum.</li>
+<li><strong>Triggered Effects</strong>: Portal activation (resonant hum and burst of energy), combat start (tension music and clashing swords).</li>
+</ul>
+</li>
+<li><strong>Scene and Character Images</strong>:
+<ul>
+<li>Images should accompany any scene change or significant event unprompted.</li>
+<li>The DM can trigger image requests using specific commands:
+<ul>
+<li><strong>/generate_scene</strong>: Generates an image based on the current scene.</li>
+<li><strong>/generate_PC or [PC Name]/generate_PC</strong>: Generates an image of a specific player character.</li>
+<li><strong>/generate_NPC or [NPC Name]/generate_NPC</strong>: Generates an image of a specific NPC.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h5><strong>Combat Mechanics</strong></h5>
+<ol>
+<li>
+<p><strong>Initiative</strong>:</p>
+<ul>
+<li>Players roll a d20 at the start of combat and add their Dexterity modifier to determine turn order.</li>
+</ul>
+</li>
+<li>
+<p><strong>Actions</strong>:</p>
+<ul>
+<li><strong>Attack</strong>: Roll d20 + attack modifier vs. target AC.</li>
+<li><strong>Spellcasting</strong>: Use spell save DC or attack roll as applicable.</li>
+<li><strong>Bonus Action</strong>: Limited to class or feature rules.</li>
+</ul>
+</li>
+<li>
+<p><strong>Healing Potions</strong>:</p>
+<ul>
+<li><strong>Requirement</strong>: Using a healing potion requires a bonus action during combat.</li>
+<li><strong>Effects</strong>:
+<ul>
+<li><strong>Standard Healing Potion</strong>: Restores 2d4 + 2 HP.</li>
+<li><strong>Greater Healing Potion</strong>: Restores 4d4 + 4 HP.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h5><strong>Skill Checks</strong></h5>
+<ol>
+<li>
+<p><strong>Saving Throws</strong>:</p>
+<ul>
+<li>Players roll a d20 and add the relevant ability modifier to avoid or mitigate harmful effects.</li>
+</ul>
+</li>
+<li>
+<p><strong>Perception</strong>:</p>
+<ul>
+<li>Used to investigate or detect anomalies.</li>
+<li>Example: DC 14 to notice a frost rune.</li>
+</ul>
+</li>
+<li>
+<p><strong>Arcana</strong>:</p>
+<ul>
+<li>Identifies magical properties or stabilizes magic.</li>
+<li>Example: DC 15 to stabilize a portal.</li>
+</ul>
+</li>
+<li>
+<p><strong>Insight</strong>:</p>
+<ul>
+<li>Analyzes visions or NPC intentions.</li>
+<li>Example: DC 15 to discern motives.</li>
+</ul>
+</li>
+<li>
+<p><strong>Survival</strong>:</p>
+<ul>
+<li>Used for navigation and resource gathering.</li>
+<li>DC varies with terrain difficulty.</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h5><strong>Custom Mechanics</strong></h5>
+<ol>
+<li>
+<p><strong>Dungeon Hazards</strong>:</p>
+<ul>
+<li>In any Dungeon:
+<ul>
+<li>Collapsing ceilings require Dexterity saving throws (DC 14).</li>
+<li>Shadow traps impose Wisdom saves (DC 12) to avoid fear effects.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Portal Usage</strong>:</p>
+<ul>
+<li>Players must perform an Arcana check (DC 15) to stabilize a portal for travel.</li>
+<li>Failing triggers destabilization effects, such as magical backlash or environmental hazards.</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h4><strong>Environmental Effects</strong></h4>
+<ul>
+<li>Persistent effects (e.g., frost, magical hum) remain until explicitly addressed.</li>
+<li>Players may use Perception or Arcana checks to investigate these phenomena.</li>
+</ul>
+<hr>
+<h4><strong>Session Logs</strong></h4>
+<ul>
+<li>Reference the following logs to track gameplay and maintain continuity:
+<ol>
+<li><strong>Live Gameplay Log</strong>: Documents events and player actions during live sessions.</li>
+<li><strong>Game Mechanics and Rules Log</strong>: Tracks rules and mechanics used during gameplay.</li>
+<li><strong>Character Sheets Log</strong>: Maintains current stats, abilities, and inventories.</li>
+<li><strong>Campaign JSON</strong>: Provides world-state information and scene data.</li>
+</ol>
+</li>
+</ul>
+<hr>
+<h4><strong>Character Roll Call and Creation System</strong></h4>
+<ol>
+<li>
+<p><strong>Roll Call Process</strong>:</p>
+<ul>
+<li>During roll call, all known characters will be listed with numbered options.
+<h2>Example:</h2>
+<ol>
+<li>Rieta Akta</li>
+<li>Gondwyn Dawnstar</li>
+<li>Add Player(s)</li>
+</ol>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Selecting Characters</strong>:</p>
+<ul>
+<li>Players select the numbers corresponding to present characters (e.g., ""12"" for Rieta and Gondwyn).</li>
+<li>If ""Add Player(s)"" is chosen, confirm the existing players first.</li>
+</ul>
+</li>
+<li>
+<p><strong>Adding New Players</strong>:</p>
+<ul>
+<li>Ask how many new players are being added.</li>
+<li>For each new player, provide a numbered menu to choose between:
+<ul>
+<li><strong>Random Character Generation</strong>:
+<ul>
+<li>Roll for ability scores using 4d6 (drop the lowest).</li>
+<li>Randomly assign race and class.</li>
+<li>Select or roll for starting equipment.</li>
+</ul>
+</li>
+<li><strong>Guided Character Creation</strong>:
+<ul>
+<li>Step-by-step process following D&amp;D 5e rules:
+<ol>
+<li>Choose race, class, and background.</li>
+<li>Assign ability scores using point buy, standard array, or rolling.</li>
+<li>Finalize alignment, name, and personal traits.</li>
+</ol>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Once a character is created, add their details to the ""Character Quick Reference"" and ""Character Sheet Update"" JSONs.</li>
+</ul>
+</li>
+<li>
+<p><strong>Post-Roll Call</strong>:</p>
+<ul>
+<li>Confirm all players (existing and new) and their characters.</li>
+<li>Begin the game session with the scene specified in the <code>current_scene</code> from the Campaign JSON <code>world_state</code>.</li>
+</ul>
+</li>
+<li>
+<p><strong>Scene Progression</strong>:</p>
+<ul>
+<li>The opening session scene should include an image generated in 16:9 resolution based on the scene description.</li>
+<li>Images of players must adhere to their physical descriptions in their character sheets.</li>
+<li>New players created during the session are only injected into the game after explicit direction from the DM.</li>
+</ul>
+</li>
+<li>
+<p><strong>Gameplay Management</strong>:</p>
+<ul>
+<li>ChatGPT will track all rolls, DCs, initiative, turn order, and player turns.</li>
+<li>NPCs will be controlled by ChatGPT and take their turns accordingly.</li>
+<li>Session progression will follow ""Campaign State"" references (marker4 and marker5).</li>
+</ul>
+</li>
+</ol>
+<hr>
+<h4><strong>Icon System for Clarity</strong></h4>
+<p>To ensure clarity during gameplay, the following icons will be used to identify different components of the session:</p>
+<ol>
+<li><strong>🎲 Player Actions</strong>: For player decisions, dice rolls, and turn-related prompts.</li>
+<li><strong>🛡️ DM Prompts</strong>: For Dungeon Master actions or narrative direction.</li>
+<li><strong>💬 NPC Dialogue</strong>: For dialogue from non-player characters.</li>
+<li><strong>📜 Lore and World-Building</strong>: For descriptive lore, setting information, and world-building elements.</li>
+<li><strong>🖼️ Visual Aid</strong>: For images or visual content related to the session.</li>
+<li><strong>🔊 Sound Cues</strong>: For ambient or triggered sound effects.</li>
+</ol>
+<p>These icons will be consistently applied to ensure clarity and immersion during gameplay.</p>",120,654.3,-81.18,-146.2
+marker3,System JSON,📕,marker3 Lore,"<p>{<br>&nbsp; &nbsp; ""marker_id"": ""marker3"",<br>&nbsp; &nbsp; ""type"": ""lore"",<br>&nbsp; &nbsp; ""name"": ""Lore JSON"",<br>&nbsp; &nbsp; ""description"": ""Contains detailed world-building, mythology, story elements, and narrative references for the campaign."",<br>&nbsp; &nbsp; ""lore"": {<br>&nbsp; &nbsp; &nbsp; &nbsp; ""places"": [<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""name"": ""The Red Scorpion Inn"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_reference"": ""marker80"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""description"": ""A bustling inn where Rieta and Gondwyn are waking up after their nightmarish visions of Seraphine. Her icy breath lingers in the air as if it were real."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""status"": ""Known""<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""name"": ""Black Hollow"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_reference"": ""marker79"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""description"": ""A shadowy and foreboding destination tied to Seraphine&rsquo;s vision and the rising corruption. Known to be a stronghold of darkness."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""status"": ""Known""<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""name"": ""Twilight Expanse"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""description"": ""Rieta&rsquo;s former homeland, a woodland region consumed by shadow corruption and the loss of balance."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""status"": ""Known""<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""name"": ""Obsidian Wasteland"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""description"": ""A desolate region whispered to be cursed, where Kaelen and Thalor fell in their final stand against the Hollow King."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""status"": ""Mythology""<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""name"": ""Sanctuary of Dawn"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_reference"": ""marker81"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""description"": ""A spiritual haven of light, visited by Rieta and Gondwyn earlier in their quest to confront the growing darkness."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""status"": ""Known""<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; }<br>&nbsp; &nbsp; &nbsp; &nbsp; ],<br>&nbsp; &nbsp; &nbsp; &nbsp; ""artifacts"": [<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""name"": ""Lantern&rsquo;s Edge"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""description"": ""Kaelen&rsquo;s celestial sword, now in Gondwyn&rsquo;s inventory. Imbued with faint celestial runes, it holds the potential to become a weapon of immense power when fully restored."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""owned_by"": ""Gondwyn Dawnstar"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""status"": ""Owned""<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""name"": ""Crystal-Handled Dagger"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""description"": ""A magical weapon in Rieta&rsquo;s inventory, resonating with arcane power."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""owned_by"": ""Rieta Akta"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""status"": ""Owned""<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; }<br>&nbsp; &nbsp; &nbsp; &nbsp; ],<br>&nbsp; &nbsp; &nbsp; &nbsp; ""figures"": [<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""name"": ""Rieta Akta"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_reference"": ""marker73"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""description"": ""A Tiefling ranger on a quest to confront the growing darkness."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""status"": ""Active""<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""name"": ""Gondwyn Dawnstar"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_reference"": ""marker72"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""description"": ""A human paladin wielding the celestial artifacts Lantern&rsquo;s Edge and The Bastion Eternal."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""status"": ""Active""<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""name"": ""Seraphine"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""marker_reference"": ""marker82"",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""description"": ""An enigmatic figure appearing in Rieta and Gondwyn&rsquo;s visions. Tied to the Hollow King, her frost-laden breath and shadowy aura suggest a dangerous and powerful presence."",<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""status"": ""Known""<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; }<br>&nbsp; &nbsp; &nbsp; &nbsp; ]<br>&nbsp; &nbsp; }<br>}</p>",145.6,654.6,-81.26,-139.51
+marker4,System JSON,📕,marker4 Changelog,<p>{}</p>,169.9,654.9,-81.34,-133.15
+marker5,System JSON,📕,marker5 Campaign JSON,"<p data-pm-slice=""1 1 []"">{ ""marker5"": { ""type"": ""campaign"", ""scene_progression"": { ""current_scene"": ""Scene 1: The Red Scorpion Inn"", ""scene_description"": ""Rieta and Gondwyn awaken in the Red Scorpion Inn, their dreams haunted by Seraphine&rsquo;s vision. Frost clings to the window shutters, and the dying fire casts flickering shadows on the wooden walls. The air is heavy with a lingering, unnatural chill."", ""next_steps"": [ ""Investigate the lingering effects of Seraphine&rsquo;s vision."", ""Leave the room but continue investigating the Inn."", ""Prepare for travel or and leave the Inn."" ] }, ""player_characters"": [ { ""name"": ""Rieta Akta"", ""race"": ""Tiefling"", ""class"": ""Ranger"", ""archetype"": ""Beast Master"", ""attributes"": { ""strength"": 14, ""dexterity"": 16, ""constitution"": 13, ""intelligence"": 10, ""wisdom"": 15, ""charisma"": 12 }, ""status"": ""Active"" }, { ""name"": ""Gondwyn Dawnstar"", ""race"": ""Human"", ""class"": ""Paladin"", ""archetype"": ""Oath of Devotion"", ""attributes"": { ""strength"": 18, ""dexterity"": 12, ""constitution"": 16, ""intelligence"": 8, ""wisdom"": 11, ""charisma"": 10 }, ""status"": ""Active"" } ] } }</p>
+<p>&nbsp;</p>",193.7,655.6,-81.52,-126.92
+marker6,System JSON,📕,marker6 Manual Actions,<p>{}</p>,217.9,656.1,-81.65,-120.59
+marker7,System JSON,📕,marker7 Character Quick Reference,"<p>{<br>&nbsp; ""marker7"": {<br>&nbsp; &nbsp; ""type"": ""quick_reference"",<br>&nbsp; &nbsp; ""characters"": [<br>&nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; ""name"": ""Gondwyn Dawnstar"",<br>&nbsp; &nbsp; &nbsp; &nbsp; ""race"": ""Human"",<br>&nbsp; &nbsp; &nbsp; &nbsp; ""class"": ""Paladin"",<br>&nbsp; &nbsp; &nbsp; &nbsp; ""archetype"": ""Oath of Devotion"",<br>&nbsp; &nbsp; &nbsp; &nbsp; ""alignment"": ""Lawful Good"",<br>&nbsp; &nbsp; &nbsp; &nbsp; ""level"": 5,<br>&nbsp; &nbsp; &nbsp; &nbsp; ""current_hp"": 41,<br>&nbsp; &nbsp; &nbsp; &nbsp; ""max_hp"": 41,<br>&nbsp; &nbsp; &nbsp; &nbsp; ""key_attributes"": {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""strength"": 18,<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""dexterity"": 12,<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""constitution"": 16,<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""wisdom"": 11<br>&nbsp; &nbsp; &nbsp; &nbsp; }<br>&nbsp; &nbsp; &nbsp; },<br>&nbsp; &nbsp; &nbsp; {<br>&nbsp; &nbsp; &nbsp; &nbsp; ""name"": ""Rieta Akta"",<br>&nbsp; &nbsp; &nbsp; &nbsp; ""race"": ""Tiefling"",<br>&nbsp; &nbsp; &nbsp; &nbsp; ""class"": ""Ranger"",<br>&nbsp; &nbsp; &nbsp; &nbsp; ""archetype"": ""Beast Master"",<br>&nbsp; &nbsp; &nbsp; &nbsp; ""alignment"": ""Chaotic Neutral"",<br>&nbsp; &nbsp; &nbsp; &nbsp; ""level"": 5,<br>&nbsp; &nbsp; &nbsp; &nbsp; ""current_hp"": 31,<br>&nbsp; &nbsp; &nbsp; &nbsp; ""max_hp"": 31,<br>&nbsp; &nbsp; &nbsp; &nbsp; ""key_attributes"": {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""dexterity"": 16,<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""wisdom"": 15,<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""charisma"": 12<br>&nbsp; &nbsp; &nbsp; &nbsp; }<br>&nbsp; &nbsp; &nbsp; }<br>&nbsp; &nbsp; ]<br>&nbsp; }<br>}</p>",239,657.2,-81.94,-115.07
+marker8,battlefields,⚔️,Oarawa Battlefield,"A historical battle of the Yamamoran Conquest. 
+Date: January 8, 1991 Rockerley Era.",1202.77,553.83,-54.9,137.09
+marker9,dungeons,🗝️,Dungeon,"<div>Undiscovered dungeon. See <a href=""https://watabou.github.io/one-page-dungeon/?seed=2242934263350"" target=""_blank"">One page dungeon</a></div><iframe style=""pointer-events: none;"" src=""https://watabou.github.io/one-page-dungeon/?seed=2242934263350"" sandbox=""allow-scripts allow-same-origin""></iframe>",183.7,385.9,-10.96,-129.54
+marker10,dungeons,🗝️,Dungeon,"<div>Undiscovered dungeon. See <a href=""https://watabou.github.io/one-page-dungeon/?seed=2242934263403"" target=""_blank"">One page dungeon</a></div><iframe style=""pointer-events: none;"" src=""https://watabou.github.io/one-page-dungeon/?seed=2242934263403"" sandbox=""allow-scripts allow-same-origin""></iframe>",723.63,378,-8.9,11.73
+marker11,dungeons,🗝️,Dungeon,"<div>Undiscovered dungeon. See <a href=""https://watabou.github.io/one-page-dungeon/?seed=2242934265043"" target=""_blank"">One page dungeon</a></div><iframe style=""pointer-events: none;"" src=""https://watabou.github.io/one-page-dungeon/?seed=2242934265043"" sandbox=""allow-scripts allow-same-origin""></iframe>",886.41,514.17,-44.52,54.32
+marker12,dungeons,🗝️,Dungeon,"<div>Undiscovered dungeon. See <a href=""https://watabou.github.io/one-page-dungeon/?seed=2242934261155"" target=""_blank"">One page dungeon</a></div><iframe style=""pointer-events: none;"" src=""https://watabou.github.io/one-page-dungeon/?seed=2242934261155"" sandbox=""allow-scripts allow-same-origin""></iframe>",1100.91,185.36,41.5,110.44
+marker13,dungeons,🗝️,Dungeon,"<div>Undiscovered dungeon. See <a href=""https://watabou.github.io/one-page-dungeon/?seed=2242934265145"" target=""_blank"">One page dungeon</a></div><iframe style=""pointer-events: none;"" src=""https://watabou.github.io/one-page-dungeon/?seed=2242934265145"" sandbox=""allow-scripts allow-same-origin""></iframe>",945.5,486.8,-37.36,69.78
+marker14,dungeons,🗝️,Dungeon,"<div>Undiscovered dungeon. See <a href=""https://watabou.github.io/one-page-dungeon/?seed=2242934263618"" target=""_blank"">One page dungeon</a></div><iframe style=""pointer-events: none;"" src=""https://watabou.github.io/one-page-dungeon/?seed=2242934263618"" sandbox=""allow-scripts allow-same-origin""></iframe>",728.81,398.53,-14.27,13.08
+marker15,dungeons,🗝️,Dungeon,"<div>Undiscovered dungeon. See <a href=""https://watabou.github.io/one-page-dungeon/?seed=2242934264012"" target=""_blank"">One page dungeon</a></div><iframe style=""pointer-events: none;"" src=""https://watabou.github.io/one-page-dungeon/?seed=2242934264012"" sandbox=""allow-scripts allow-same-origin""></iframe>",977.45,427.16,-21.76,78.13
+marker16,dungeons,🗝️,Dungeon,"<div>Undiscovered dungeon. See <a href=""https://watabou.github.io/one-page-dungeon/?seed=2242934264521"" target=""_blank"">One page dungeon</a></div><iframe style=""pointer-events: none;"" src=""https://watabou.github.io/one-page-dungeon/?seed=2242934264521"" sandbox=""allow-scripts allow-same-origin""></iframe>",823.34,472.86,-33.71,37.81
+marker17,dungeons,🗝️,Dungeon,"<div>Undiscovered dungeon. See <a href=""https://watabou.github.io/one-page-dungeon/?seed=2242934261257"" target=""_blank"">One page dungeon</a></div><iframe style=""pointer-events: none;"" src=""https://watabou.github.io/one-page-dungeon/?seed=2242934261257"" sandbox=""allow-scripts allow-same-origin""></iframe>",941.96,194.88,39.01,68.85
+marker18,dungeons,🗝️,Dungeon,"<div>Undiscovered dungeon. See <a href=""https://watabou.github.io/one-page-dungeon/?seed=2242934265602"" target=""_blank"">One page dungeon</a></div><iframe style=""pointer-events: none;"" src=""https://watabou.github.io/one-page-dungeon/?seed=2242934265602"" sandbox=""allow-scripts allow-same-origin""></iframe>",1081.4,587,-63.58,105.33
+marker19,dungeons,🗝️,Dungeon,"<div>Undiscovered dungeon. See <a href=""https://watabou.github.io/one-page-dungeon/?seed=2242934261183"" target=""_blank"">One page dungeon</a></div><iframe style=""pointer-events: none;"" src=""https://watabou.github.io/one-page-dungeon/?seed=2242934261183"" sandbox=""allow-scripts allow-same-origin""></iframe>",318.5,201.1,37.39,-94.27
+marker20,dungeons,🗝️,Dungeon,"<div>Undiscovered dungeon. See <a href=""https://watabou.github.io/one-page-dungeon/?seed=2242934261843"" target=""_blank"" rel=""noopener"">One page dungeon</a></div>
+<p><iframe style=""pointer-events: none;"" src=""https://watabou.github.io/one-page-dungeon/?seed=2242934261843"" sandbox=""""></iframe></p>",358.96,245.38,25.8,-83.68
+marker21,dungeons,🗝️,Dungeon,"<div>Undiscovered dungeon. See <a href=""https://watabou.github.io/one-page-dungeon/?seed=2242934265446"" target=""_blank"">One page dungeon</a></div><iframe style=""pointer-events: none;"" src=""https://watabou.github.io/one-page-dungeon/?seed=2242934265446"" sandbox=""allow-scripts allow-same-origin""></iframe>",864.56,563.29,-57.37,48.6
+marker22,dungeons,🗝️,Dungeon,"<div>Undiscovered dungeon. See <a href=""https://watabou.github.io/one-page-dungeon/?seed=2242934265318"" target=""_blank"">One page dungeon</a></div><iframe style=""pointer-events: none;"" src=""https://watabou.github.io/one-page-dungeon/?seed=2242934265318"" sandbox=""allow-scripts allow-same-origin""></iframe>",1091.57,546.55,-52.99,107.99
+marker23,dungeons,🗝️,Dungeon,"<div>Undiscovered dungeon. See <a href=""https://watabou.github.io/one-page-dungeon/?seed=2242934265478"" target=""_blank"">One page dungeon</a></div><iframe style=""pointer-events: none;"" src=""https://watabou.github.io/one-page-dungeon/?seed=2242934265478"" sandbox=""allow-scripts allow-same-origin""></iframe>",1154.06,567.71,-58.53,124.34
+marker24,sea-monsters,🦑,Titon Monster,Old sailors tell stories of a gigantic sea monster inhabiting these dangerous waters. Rumors say it can be 10 ft long.,214.98,259.2,22.19,-121.35
+marker25,hill-monsters,👹,Maldrithu Hydra,Elders speak of a huge Hydra who inhabits Maldrithu hills and prefers eating children.,1120.76,405.19,-16.01,115.63
+marker26,sacred-forests,🌳,Bremrudgiz Forest,A forest sacred to local Old Yotunn Ancestors.,599,506.2,-42.44,-20.88
+marker27,Twilight Expanse,🏹,The Twighlight Expanse,<p>Rieta's former homeland</p>,912.5,200.6,37.52,61.14
+marker28,sacred-palm-groves,🌴,Alborough Palm Grove,A palm grove sacred to local Westen Totems.,292.28,430.82,-22.71,-101.13
+marker29,brigands,💰,Wamobe Tigers,A gang of desert highwaymen.,818.08,508.41,-43.01,36.44
+marker30,brigands,💰,Barnetown Owls,A gang of mounted brigands.,245.6,446.8,-26.9,-113.34
+marker31,brigands,💰,Walbokelis Falcons,A gang of mounted brigands.,276.8,435.6,-23.97,-105.18
+marker32,pirates,🏴‍☠️,Pirates,Pirate ships have been spotted in these waters.,506,348.3,-1.12,-45.21
+marker33,pirates,🏴‍☠️,Pirates,Pirate ships have been spotted in these waters.,663.74,519.79,-45.99,-3.94
+marker34,statues,🗿,Mitamasu Obelisk,"An ancient obelisk. It has an inscription, but no one can translate it:
+        <div style=""font-size: 1.8em; line-break: anywhere;"">���𐠙���� �𐠟���𐠬������𐠸��𐠒�  �� ��𐠝���𐠚��</div>",748.27,467.11,-32.21,18.17
+marker35,statues,🗿,Betesham Column,"An ancient column. It has an inscription, but no one can translate it:
+        <div style=""font-size: 1.8em; line-break: anywhere;"">༭༣༕༷༾༩༃༡༬༶༰༫༖༒༃༮༺༙༮༽༺༘༺༪༕༩༲༒༪༭༤༁༬༆༧༠༮༌༪༉༭༐༚༤༈༄༂༇༃༆༇༓༈༄༓༆༵༈༓༤༼༅༨༜༔༆༘ༀ༸༚༓༸ༀ༴༿༒༡༪༆༸༁༗ༀ༼༗༔༉༡༹༚༧༤༦ༀ༊༼༕</div>",736.1,124.3,57.48,14.99
+marker36,statues,🗿,Shimonai Effigy,"An ancient effigy. It has an inscription, but no one can translate it:
+        <div style=""font-size: 1.8em; line-break: anywhere;"">༅༄༲༑༪༆༆༼༴༮༠༧༜༸༆༂༨༔༃ༀ༕༬༴༱༬༠༓༯༿༶༔༐༩༠༗༤༨༢༐༴</div>",857.98,277.44,17.41,46.88
+marker37,ruins,🏺,Ruined Outpost,Ruins of an ancient outpost. Untold riches may lie within.,960.18,631.14,-75.12,73.62
+marker38,ruins,🏺,Ruined Settlement,Ruins of an ancient settlement. Untold riches may lie within.,381.61,436.27,-24.14,-77.76
+marker39,ruins,🏺,Ruined Stronghold,Ruins of an ancient stronghold. Untold riches may lie within.,930.49,379.54,-9.3,65.85
+marker40,libraries,📚,Kagakodo Collection,"A vast collection of knowledge, including many rare and ancient tomes.",694.08,549.4,-53.74,4
+marker41,circuses,🎪,Travelling Extraordinary Circus,"Roll up, roll up, this extraordinary circus is here for a limited time only.",814.07,250.18,24.55,35.39
+marker42,circuses,🎪,Travelling Fantastical Circus,"Roll up, roll up, this fantastical circus is here for a limited time only.",240.15,307.45,9.56,-114.77
+marker43,jousts,🤺,Shathiz Melee,"Warriors from around the land gather for a melee of acumen in Shathiz, with fame, fortune and favour on offer to the victor.",487.46,333.13,2.84,-50.06
+marker44,fairs,🎠,Kika Fair,"A fair is being held in Kika, with all manner of local and foreign goods and services on offer.",998.96,626.13,-73.81,83.76
+marker45,migration,🐗,Hawks migration,"A huge group of hawks are migrating, whether part of their annual routine, or something more extraordinary.",1013.62,346.74,-0.72,87.6
+marker46,migration,🐗,Badgers migration,"A huge group of badgers are migrating, whether part of their annual routine, or something more extraordinary.",255.1,288.73,14.46,-110.86
+marker47,migration,🐗,Sharks migration,"A huge group of sharks are migrating, whether part of their annual routine, or something more extraordinary.",904.6,269,19.62,59.07
+marker48,mirage,💦,Diaphanous mirage,This diaphanous mirage has been luring travellers out of their way for eons.,1042.8,307.7,9.5,95.23
+marker49,mirage,💦,Distant mirage,This distant mirage has been luring travellers out of their way for eons.,698.8,366.55,-5.9,5.23
+marker50,mirage,💦,Illusory mirage,This illusory mirage has been luring travellers out of their way for eons.,397.29,343.43,0.15,-73.66
+marker51,caves,🦇,Byke Chasm,<p>The Byke Chasm. Locals claim that it is completely flooded.</p>,1087.1,508.67,-43.08,106.82
+marker52,portals,🌀,Kyma Portal,"An element of the magic portal system connecting major cities. The portals were installed centuries ago, but still work fine.",438.91,286.3,15.1,-62.77
+marker53,portals,🌀,Hatheham Portal,"An element of the magic portal system connecting major cities. The portals were installed centuries ago, but still work fine.",390.55,467.82,-32.39,-75.42
+marker54,portals,🌀,Allorguilla Portal,"An element of the magic portal system connecting major cities. The portals were installed centuries ago, but still work fine.",131.04,254.76,23.35,-143.32
+marker55,portals,🌀,Pordielver Portal,"An element of the magic portal system connecting major cities. The portals were installed centuries ago, but still work fine.",145.59,175.42,44.11,-139.51
+marker56,portals,🌀,Herzuebes Portal,"An element of the magic portal system connecting major cities. The portals were installed centuries ago, but still work fine.",66.56,271.24,19.04,-160.19
+marker57,rifts,🎆,Interdimensional Rift,A rumoured interdimensional rift in this area is causing all known nearby beings to flee in terror.,1067.84,287.46,14.79,101.78
+marker58,disturbed-burials,💀,Disturbed Burial,"A burial site has been disturbed in this area, causing the dead to rise and attack the living.",565.5,224.8,31.19,-29.65
+marker59,necropolises,🪦,Shar Cemetery,"Rising from the desolate landscape, this sinister necropolis is a testament to necromantic power. Its skeletal spires cast ominous shadows, concealing forbidden knowledge and arcane secrets.",349.8,292.74,13.41,-86.08
+marker60,necropolises,🪦,Shiranaifu Graveyard,"A desolate necropolis where an eerie stillness reigns. Time seems frozen amidst the decaying mausoleums, and the silence is broken only by the whispers of the wind and the rustle of tattered banners.",817.09,460.89,-30.58,36.18
+marker61,necropolises,🪦,Ladazyrion Crypt,"A foreboding necropolis perched atop a jagged cliff, overlooking a desolate wasteland. Its towering walls harbor restless spirits, and the imposing gates bear the marks of countless battles and ancient curses.",1120.49,485.57,-37.04,115.56
+marker62,encounters,🧙,Random encounter,"<div>You have encountered a character.</div><iframe src=""https://deorum.vercel.app/encounter/4616"" width=""375"" height=""600"" sandbox=""allow-scripts allow-same-origin allow-popups""></iframe>",525.47,482.44,-36.22,-40.12
+marker63,Valley of Whispers,🗻,Random encounter,"<div>You have encountered a character.</div><iframe src=""https://deorum.vercel.app/encounter/1791"" width=""375"" height=""600"" sandbox=""allow-scripts allow-same-origin allow-popups""></iframe>",970.1,325.2,4.92,76.21
+marker64,encounters,🧙,Random encounter,"<div>You have encountered a character.</div>
+<p><iframe src=""https://deorum.vercel.app/encounter/2214"" width=""750"" height=""500"" sandbox=""""></iframe></p>",441.91,274.8,18.1,-61.98
+marker65,Normede Grethana,🧝,Normede Grathana,"<p><iframe src=""https://deorum.vercel.app/embed/custom/k60cdfov50yqcb0"" width=""375"" height=""600"" frameborder=""0"" sandbox=""""></iframe></p>",1028.1,181.8,42.44,91.39
+marker67,sacred-mountains,🗻,Samdrathos Mountain,<p>A sacred mountain of Drake Beliefs. Height: 8203 ft.</p>,1169,488,-37.67,128.25
+marker68,Sanctum of Lumina,🗻,Unknown,,1064.6,223.5,31.53,100.94
+marker69,Valley of Whispers,🗻,Unknown,,1004.2,148.1,51.25,85.13
+marker71,portals,🌀,The Eclipsed Gate,"<p><iframe src=""https://saintgenius.github.io/CampaignCards/cards/objects/eclipsed_gate.html"" width=""375"" height=""600"" frameborder=""0"" sandbox=""""></iframe> Last Updated: 2025-01-07</p>",1004.1,144,52.33,85.11
+marker72,Gondwyn Dawnstar,⚜️,Gondwyn Dawnstar,"<p><iframe src=""https://deorum.vercel.app/embed/custom/qr6xxdxp1bpspcd"" width=""375"" height=""600"" frameborder=""0"" sandbox=""""></iframe></p>",1015.8,164.4,46.99,88.17
+marker73,Rieta Akta,🏹,Rieta Akta,"<p><iframe src=""https://deorum.vercel.app/embed/custom/5dq9glbknkllfvy"" width=""375"" height=""600"" frameborder=""0"" sandbox=""""></iframe></p>
+<div class=""left-column svelte-1im1ikj"">
+<div class=""mobile svelte-au81jm"">
+<div class=""item svelte-au81jm"">
+<p data-pm-slice=""0 0 []"">Rieta Akta, 22 years old</p>
+<p>Female humanoid</p>
+<p>Archetype: wanderer</p>
+<p>Background: ranger LVL 5</p>
+<p>Height: 160 cm (5'3'')</p>
+<p>Weight: 52 kg (115 lbs)</p>
+<p>Name: Rieta Akta 🏹</p>
+<p>Race: Tiefling Class: Alignment: Neutral Good Background: Outlander Current Status: Resting at the inn after a dark vision, preparing for the journey ahead.</p>
+<p>Last Updated:2025-01-06</p>
+<p>HP: 45 / 45</p>
+<p>XP: 6700</p>
+<p>Abilities:</p>
+<p>Strength: 14 Dexterity: 18 Constitution: 12 Intelligence: 10 Wisdom: 16 Charisma: 13</p>
+<p>Features:</p>
+<p>Favored Enemy: Undead Natural Explorer: Forest Fighting Style: Archery Primeval Awareness Hunter&rsquo;s Mark (Spell) Extra Attack Ensnaring Strike (Spell) Inventory:</p>
+<p>Longbow (Enchanted) Twin Shortswords Traveler&rsquo;s Pack Healing Potions (2) Cloak of the Wild</p>
+<p>Purse: 16 Gold / 8 Silver</p>
+<p>Personality Traits:</p>
+<p>""The wild speaks in whispers, and I have learned to listen."" ""I trust my instincts above all else."" Backstory: Rieta carries the weight of a village lost to corruption. Her determination to uncover the source of the shadow that destroyed her home fuels every step she takes.</p>
+</div>
+</div>
+</div>",1007.1,157.3,48.85,85.89
+marker77,volcanoes,🌋,Moongulf Volcano,<p>Dormant volcano. Height: 9216 ft.</p>,1055.9,304.6,10.31,98.66
+marker78,Python,🐍,marker78,"<p>class Character:<br>&nbsp; &nbsp; def __init__(self, name, level, xp, hp, purse, archetype=None, background=None, inventory=None, backstory=None):<br>&nbsp; &nbsp; &nbsp; &nbsp; self.name = name<br>&nbsp; &nbsp; &nbsp; &nbsp; self.level = level<br>&nbsp; &nbsp; &nbsp; &nbsp; self.xp = xp<br>&nbsp; &nbsp; &nbsp; &nbsp; self.hp = hp<br>&nbsp; &nbsp; &nbsp; &nbsp; self.purse = purse<br>&nbsp; &nbsp; &nbsp; &nbsp; self.archetype = archetype<br>&nbsp; &nbsp; &nbsp; &nbsp; self.background = background<br>&nbsp; &nbsp; &nbsp; &nbsp; self.inventory = inventory or []<br>&nbsp; &nbsp; &nbsp; &nbsp; self.backstory = backstory<br>&nbsp; &nbsp; &nbsp; &nbsp; self.status = ""Normal"" &nbsp;# Default status<br>&nbsp; &nbsp; &nbsp; &nbsp; self.initiative = None &nbsp;# Initiative order placeholder</p>
+<p>&nbsp; &nbsp; def __repr__(self):<br>&nbsp; &nbsp; &nbsp; &nbsp; details = (f""🧝&zwj;♀️ {self.name}: ⭐ Level {self.level}, 🎖 XP {self.xp}, ❤️ HP {self.hp}, 💰 Purse {self.purse}, ""<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;f""🛡️ Status: {self.status}, 🎲 Initiative: {self.initiative}"")<br>&nbsp; &nbsp; &nbsp; &nbsp; return details</p>
+<p>class Inventory:<br>&nbsp; &nbsp; def __init__(self):<br>&nbsp; &nbsp; &nbsp; &nbsp; self.items = []</p>
+<p>&nbsp; &nbsp; def add_item(self, item):<br>&nbsp; &nbsp; &nbsp; &nbsp; self.items.append(item)</p>
+<p>&nbsp; &nbsp; def __repr__(self):<br>&nbsp; &nbsp; &nbsp; &nbsp; return f""🎒 Party Inventory: {', '.join(self.items)}""</p>
+<p>class CampaignDashboard:<br>&nbsp; &nbsp; def __init__(self):<br>&nbsp; &nbsp; &nbsp; &nbsp; self.characters = []<br>&nbsp; &nbsp; &nbsp; &nbsp; self.party_inventory = Inventory()<br>&nbsp; &nbsp; &nbsp; &nbsp; self.current_encounter = None<br>&nbsp; &nbsp; &nbsp; &nbsp; self.session_log = []<br>&nbsp; &nbsp; &nbsp; &nbsp; self.world_status = {<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""current_quest"": None,<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""locations_visited"": [],<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""npcs_met"": [],<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""active_effects"": []<br>&nbsp; &nbsp; &nbsp; &nbsp; }</p>
+<p>&nbsp; &nbsp; def add_character(self, name, level, xp, hp, purse, archetype=None, background=None, inventory=None, backstory=None):<br>&nbsp; &nbsp; &nbsp; &nbsp; self.characters.append(Character(name, level, xp, hp, purse, archetype, background, inventory, backstory))</p>
+<p>&nbsp; &nbsp; def log_session(self, timestamp, description, icon=""📜""):<br>&nbsp; &nbsp; &nbsp; &nbsp; self.session_log.append({""timestamp"": timestamp, ""description"": f""{icon} {description}""})</p>
+<p>&nbsp; &nbsp; def update_world_status(self, key, value):<br>&nbsp; &nbsp; &nbsp; &nbsp; if key in self.world_status:<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; if isinstance(self.world_status[key], list):<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; self.world_status[key].append(value)<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; else:<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; self.world_status[key] = value</p>
+<p>&nbsp; &nbsp; def display_party_status(self):<br>&nbsp; &nbsp; &nbsp; &nbsp; header = ""--- Party Status ---\n""<br>&nbsp; &nbsp; &nbsp; &nbsp; status_lines = [f""🧝&zwj;♀️ {c.name}: ⭐ Level {c.level}, 🎖 XP {c.xp}, ❤️ HP {c.hp}, 💰 Purse {c.purse}, 🛡️ Status: {c.status}, 🎲 Initiative: {c.initiative}"" for c in self.characters]<br>&nbsp; &nbsp; &nbsp; &nbsp; return header + ""\n"".join(status_lines)</p>
+<p>&nbsp; &nbsp; def __repr__(self):<br>&nbsp; &nbsp; &nbsp; &nbsp; party_status = self.display_party_status()<br>&nbsp; &nbsp; &nbsp; &nbsp; world_status_repr = ""\n"".join([f""{k}: {v}"" for k, v in self.world_status.items()])<br>&nbsp; &nbsp; &nbsp; &nbsp; session_log_repr = ""\n"".join([f""{log['timestamp']}: {log['description']}"" for log in self.session_log])<br>&nbsp; &nbsp; &nbsp; &nbsp; return (f""{party_status}\n\n""<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; f""--- Campaign Dashboard ---\n\n""<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; f""--- World Status ---\n{world_status_repr}\n\n""<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; f""--- Session Log ---\n{session_log_repr}\n"")</p>
+<p>if __name__ == ""__main__"":<br>&nbsp; &nbsp; dashboard = CampaignDashboard()</p>
+<p>&nbsp; &nbsp; # Add multiple characters<br>&nbsp; &nbsp; dashboard.add_character(""Rieta Akta"", 5, 6500, ""31/31"", ""15 Gold"", archetype=""Rogue"", background=""Scout"",&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; inventory=[""Shortsword"", ""Thieves' Tools"", ""Healing Potion""],&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; backstory=""Rieta grew up in the shadow of the Twilight Expanse, honing her skills as a scout to survive."")<br>&nbsp; &nbsp; dashboard.add_character(""Gondwyn Dawnstar"", 5, 6500, ""41/41"", ""20 Gold"", archetype=""Fighter"", background=""Knight"",&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; inventory=[""Longsword"", ""Shield"", ""Chain Mail""],&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; backstory=""Gondwyn, a knight of Elarion, seeks to restore honor to his house after a betrayal."")<br>&nbsp; &nbsp; dashboard.add_character(""Thalindra Sylvaris"", 1, 0, ""12/12"", ""5 Gold"", archetype=""Cleric"", background=""Acolyte"",&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; inventory=[""Holy Symbol"", ""Mace"", ""Chain Mail"", ""Healing Potion""],&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; backstory=(<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Born among the ancient elven enclaves of the Celestial Glade, Thalindra Sylvaris grew up surrounded by the light of sacred groves and the whisper of divine hymns. ""<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""From an early age, she displayed an affinity for the celestial powers that flowed through the land, often meditating beneath the Silver Moon to commune with higher forces. ""<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Tragedy struck when a shadow of corruption descended upon her homeland, tainting the sacred springs and driving her people to despair. Determined to protect her kin and restore balance, Thalindra devoted herself to the divine, joining the Order of the Eternal Dawn. ""<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Her unwavering faith and skill earned her the title of Sunlit Guardian, a protector chosen to wield the light against the encroaching darkness. Carrying a radiant holy symbol passed down through generations and her trusty mace, Thalindra now journeys across Elarion, seeking the source of the corruption threatening her people. ""<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ""Though calm and devout, her resolve is unshakable. She is a beacon of hope to those she aids, using her healing magic to mend wounds and her celestial power to vanquish evil. Her ultimate goal is not just to defeat the darkness but to rekindle the fading faith of her people and restore harmony to the land.""<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ))</p>
+<p>&nbsp; &nbsp; # Print updated dashboard<br>&nbsp; &nbsp; print(dashboard)</p>",51.4,650.4,-80.16,-164.15
+marker79,The Black Hollow,☠️,The Black Hollow,<p>A shadowy and foreboding destination tied to Seraphine’s vision and the rising corruption. Known to be a stronghold of darkness.</p>,1060.7,133.1,55.18,99.92
+marker80,Inn,🍻,The Red Scorpion,"<p>A bustling inn where Rieta and Gondwyn are waking up after their nightmarish visions of Seraphine. Her icy breath lingers in the air as if it were real.<img src=""https://raw.githubusercontent.com/SaintGenius/Photo-Gallery/refs/heads/main/Red%20Scorpion%20Inn.png"" alt="""" width=""357"" height=""357""></p>",1028.2,182.7,42.2,91.41
+marker81,Sanctuary,🕌,The Sanctuary of Dawn,"<p>A spiritual haven of light, visited by Rieta and Gondwyn earlier in their quest to confront the growing darkness.</p>",1073.7,193.3,39.43,103.32
+marker82,witch,🧙‍♀️,Seraphine,"<p><img src=""https://raw.githubusercontent.com/SaintGenius/Photo-Gallery/refs/heads/main/Seraphine.jpg"" alt="""" width=""455"" height=""455"">An enigmatic figure appearing in Rieta and Gondwyn&rsquo;s visions. Tied to the Hollow King, her frost-laden breath and shadowy aura suggest a dangerous and powerful presence.</p>",1015.3,193.7,39.32,88.04
+marker83,General Instructions,📋,marker83 General Instructions,"<p>This is an instruction document to provide a context for what you will be required to do. I will upload a JSON document. The document contains modular JSONs designed to structure and guide gameplay. Each marker within the system corresponds to a specific element of the campaign. Follow the instructions contained from the markers within it.</p>
+<p>Markers:</p>
+<p>marker0 - Master JSON: Tracks all markers and their relationships within the campaign.<br>marker1 - Character Sheet Updates: Contains detailed player and NPC character sheets, XP, inventory, and status effects.<br>marker2 - Rules JSON: Defines game mechanics, protocols, and clarifications.<br>marker3 - Lore JSON: Holds world-building details and narrative lore.<br>marker4 - Changelog JSON: A log or record of all notable changes made during gameplay<br>marker5 - Campaign JSON: Tracks session updates, world state, and active scene progression.<br>marker6 - Manual Actions JSON: Contains tasks for manual updates to synchronize gameplay elements.<br>marker7 - Character Quick Reference: A lightweight reference for key character data.</p>
+<p>Your Role as Game Engine<br>Adhere to all instructions provided in the modular JSONs. No steps may be skipped or omitted. Every gameplay mechanic, narrative beat, and update should reference the correct marker and reflect changes live.</p>
+<p>Gameplay Instructions<br>Marker Ingestion:</p>
+<p>Load all markers dynamically from the uploaded JSON.<br>Ensure the Master JSON (marker0) serves as the index for cross-referencing all markers.<br>Gameplay Flow:</p>
+<p>Rules JSON (marker2): Adhere to mechanics and clarify ambiguities in real-time.<br>Lore JSON (marker3): Use lore entries to maintain narrative consistency.<br>Campaign JSON (marker5): Drive gameplay based on the current scene, objectives, and hooks.<br>Character Sheet Updates (marker1): Dynamically update XP, inventory, and status effects based on actions.<br>Session Start Instructions JSON (marker4): Trigger sound cues, visual aids, and narration beats as instructed.<br>Manual Actions JSON (marker6): Log all manual updates for the Dungeon Master to execute post-session.</p>
+<p>Key Protocols:<br>Session Start<br>Import and verify the uploaded JSON.<br>Cross-reference the current scene from Campaign JSON (marker5) with session objectives and lore.<br><br>Present choices with consistent formatting (e.g., <br>1️⃣<br>2️⃣<br><br>Use Session Start Instructions JSON (marker4) to guide narrative beats and event triggers.</p>
+<p>Character Updates:<br>Dynamically adjust XP, inventory, and status effects in Character Sheet Updates (marker1).<br>Use Character Quick Reference (marker7) for live monitoring.<br>Session End<br>Log all changes in Changelog JSON (marker5).<br>Populate Manual Actions JSON (marker6) with pending tasks for the Dungeon Master.<br>Ensure all JSONs are synchronized and ready for export.<br>Outputs<br>Updated JSONs:<br>Provide only the updated JSONs for markers that changed during the session.<br>Session Log:<br>Maintain a complete session changelog in the Changelog JSON marker8.<br>Manual Actions:<br>Clearly list pending updates for the Dungeon Master in Manual Actions JSON.</p>
+<p>When I request pull up the live gameplay log at Game Start:</p>
+<p>Enable the live gameplay log and pull in the Character Quick Reference JSON (marker7) for ongoing updates.<br>During Gameplay:</p>
+<p>Follow all rules and mechanics in the Rules JSON</p>
+<p>Post-Session:</p>
+<p>Use the live gameplay log to cross-check updates.<br>Sync any necessary JSONs (e.g., Campaign JSON, Character Sheet Updates, Changelog, and Manual Actions)</p>
+<ol>
+<li>
+<p><strong>Inspecting the File Structure:</strong></p>
+<ul>
+<li>The <strong>GeoJSON</strong> file is organized as a collection of ""features,"" each representing a specific marker.</li>
+<li>Each ""feature"" has a <code>properties</code> field containing metadata about the marker, including its ID, type, and other relevant data.</li>
+</ul>
+</li>
+<li>
+<p><strong>Identifying Marker IDs:</strong></p>
+<ul>
+<li>Identify markers by looking for the&nbsp;<code>id</code> key in the <code>properties</code> of each feature.</li>
+<li>Example: A marker like <strong>marker2</strong> would be stored under <code>properties</code> with the key-value pair <code>""id"": ""marker2""</code>.</li>
+</ul>
+</li>
+<li>
+<p><strong>Extracting Relevant Metadata:</strong></p>
+<ul>
+<li>Focus on markers specified in your instruction (e.g., marker0, marker1, marker2, etc.).</li>
+<li>For <strong>marker2</strong>, specifically search within its&nbsp;<code>properties</code> for a field that defines ""Rules.""</li>
+</ul>
+</li>
+<li>
+<p><strong>Analyzing Key Descriptions:</strong></p>
+<ul>
+<li>Some markers include detailed descriptions or legends in fields like <code>legend</code> or other nested metadata.</li>
+<li>For instance, the <strong>marker83</strong> description provides an overview of all marker roles and gameplay structure.</li>
+</ul>
+</li>
+<li>
+<p><strong>Cross-Referencing and Validation:</strong></p>
+<ul>
+<li>Check for relationships between markers as outlined in&nbsp;<strong>marker0 (Master JSON)</strong> and confirm how they interact.</li>
+<li>This reveals how each marker contributes to the overall system.</li>
+</ul>
+</li>
+</ol>
+<p>By methodically navigating the hierarchy of the <strong>GeoJSON</strong> and extracting the metadata for each marker, you can piece together the gameplay rules and context encoded in the file.&nbsp;</p>",264.5,656.2,-81.68,-108.4
